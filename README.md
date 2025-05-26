@@ -21,3 +21,17 @@ Essa solução tem aplicação direta em estratégias de retenção de clientes,
   - Explicabilidade com análise de importância de variáveis 
 
 **Link**: [Acesse aqui](https://github.com/maxMitsuya/analise-lr-rf-xgboost)
+
+### Projeto 02 - Projeto de Segmentação RFV para E-Commerce
+
+**Descrição**:
+
+Neste projeto, implementei uma análise de clustering RFV (Recência, Frequência, Valor) para segmentar clientes de um e-commerce com base em seu comportamento de compra. Utilizei diferentes algoritmos de clusterização (K-Means, Hierárquico, DBSCAN e MeanShift) para identificar grupos de clientes com padrões distintos, permitindo estratégias de marketing mais direcionadas e eficientes.
+
+**Aplicação Prática**:
+Essa segmentação permite:
+- Reduzir custos de marketing ao direcionar campanhas apenas para públicos relevantes.
+- Aumentar a retenção com ações personalizadas para cada perfil.
+- Maximizar receita ao identificar oportunidades de upselling e fidelização.
+
+**Link**: [Acesse aqui](https://github.com/maxMitsuya/clustering_models)
