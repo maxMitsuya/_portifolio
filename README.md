@@ -4,7 +4,6 @@
 👋 Bem-vindo ao meu portfólio profissional! Aqui você encontrará uma coleção dos meus principais projetos em Ciência de Dados
 
 ### Projeto 01 - Aplicação de modelos de ML para previsão de churn
-[![Repo Star](https://img.shields.io/github/stars/maxMitsuya/analise-lr-rf-xgboost?style=flat-square)](https://github.com/maxMitsuya/analise-lr-rf-xgboost)
 
 **Descrição**:
 
@@ -19,4 +18,4 @@ Essa solução tem aplicação direta em estratégias de retenção de clientes,
   - Comparação Quantitativa usando múltiplas métricas (F1-Score, Recall, ROC AUC) 
   - Explicabilidade com análise de importância de variáveis 
 
-- **Link**: [Acesse aqui](https://github.com/maxMitsuya/analise-lr-rf-xgboost)
+**Link**: [Acesse aqui](https://github.com/maxMitsuya/analise-lr-rf-xgboost)
